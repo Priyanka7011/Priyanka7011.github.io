@@ -1,0 +1,70 @@
+*{
+	margin:0;
+	padding: 0;
+    font-family: 'Montserrat';
+}
+.days{
+	width: 15%;
+	padding: 10px;
+	margin-left:20px;
+	column-gap: 40px;
+}
+.sub{
+	width: 10%;
+	padding: 10px 0;
+	text-align: center;
+	column-gap: 40px;
+	margin-right: 40px;
+}
+.daysY{
+	width: 1%;
+	padding-left: 12px;
+}
+tr{
+	border-bottom: 1px solid;
+}
+table{
+	border-collapse: separate;
+
+	border-spacing: 20px 5px ;
+}
+.comp{
+	background-color: #31F5AA;
+	border-radius: 15px;
+	
+}
+.soft{
+	background-color:#FFD1C1;
+	border-radius: 15px;
+}
+.hs{
+	background-color: #09EBEE;
+	border-radius: 15px;
+}
+.sc{
+	background-color: #FADE5E;
+	border-radius: 15px;
+}
+.sec{
+	background-color: #d8d8d8;
+	border-radius: 15px;
+}
+
+.tech{
+	background-color: #B9A3F7;
+	border-radius: 15px;
+}
+.Lab{
+	background-color:#FFBC90;
+	border-radius: 15px;
+}
+.softLab{
+	background-color: #FA8A80;
+	border-radius: 15px;
+}
+.time{
+	font-size:10px;
+}
+p{
+	font-size: 14px;
+}
